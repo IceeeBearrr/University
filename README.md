@@ -33,8 +33,10 @@ The Tutor Management System is designed to handle the management of tutors, cour
    git clone https://github.com/yourusername/tutor-management-system.git
    
 2. **Navigate to the project directory:**
+   ```sh
    cd tutor-management-system
 
-3. **Compile and run the application:**
+4. **Compile and run the application:**
+   ```sh
    javac Main.java
    java Main
